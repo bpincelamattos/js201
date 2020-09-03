@@ -1,7 +1,9 @@
 # JavaScript 201 - Programming Exercises
 
 Programming exercises for a beginning JavaScript programmer.
-Hello
+
+Hello! Hello Students!
+
 These exercises use Strings, loops, Objects, and Arrays to solve logic problems.
 
 ## Install
